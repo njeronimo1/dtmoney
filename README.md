@@ -1,7 +1,7 @@
 # dtmoney
 Controle de finanças - Ignite Rocketseat
 
-Tecnologiase e bibliotécas utilizadas:
+Tecnologias e bibliotecas utilizadas:
 
 - ReactJs
 - TypeScript
